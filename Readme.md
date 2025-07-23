@@ -45,6 +45,13 @@ npm start
 
 ## Possible Attacs 
 ### XSS Song 
+
+You can find a Video Descrition on this following Link:
+```bash
+https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
+```
+
+
 1. Navigate to Serchnavigation: 
 <img src="/XSS_Suchleiste.png">
 
@@ -53,9 +60,10 @@ npm start
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771984076&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 ```
 
-3. Reload your Page. 
 
-4. Now you can see a Box where you can play and stop the loaded Music. 
+3. Now you can see a Box where you can play and stop the loaded Music. 
+
+
 
 ### Admin Login with SQL Injection 
 ### Every else No Safty example
