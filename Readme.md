@@ -101,7 +101,7 @@ Account-Login-"Not jet a Customer"
 <img src="Navigate_login.png">
 
 2. Fill in your own Email Adress and Password 
-
+<img src="Registration.png">
 
 3. Login with your created Account. Alternative you can use the Admin Account from your SQL Admin Attack. 
 
