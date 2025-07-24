@@ -14,7 +14,7 @@ Goal of this Chalange is to login on the OWASP Juice Shop with the Administrator
 ```
 Account-Login
 ```
-<img src="img/Navigate_login.png">
+<img src="/img/Navigate_login.png">
 
 2. Login 
 
@@ -24,6 +24,6 @@ For email use the following Command:
 ```
 Type in any password — it can be anything, just make sure the field isn't empty.
 
-<img src="img/Login_SQLAdmin.png">
+<img src="/img/Login_SQLAdmin.png">
 
 Gratulate! You are logged in as a Admin on the OWASP Juice Shop. 
