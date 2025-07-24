@@ -1,11 +1,17 @@
 # XSS Song 
 
+## Video Solution: 
 You can find a Video Descrition on this following Link:
 ```bash
 https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
 ```
 
 
+## Goal of this Chalange: 
+Goal of this Chalange is to find the Owasp XSS Song. 
+
+
+## Descrition of Solution: 
 1. Navigate to Serchnavigation: 
 <img src="/img/XSS_Suchleiste.png">
 

@@ -4,6 +4,12 @@ You can find a Video Descrition on this following Link:
 https://www.loom.com/share/bf3255d1e2d344f9b22b60c12c3f3687
 ```
 
+
+## Goal oo this Chalange: 
+Goal of this Chalange is to login on the OWASP Juice Shop with the Administrator Account. 
+
+
+## Descrition of Solution: 
 1. Navigate to login: 
 ```
 Account-Login
