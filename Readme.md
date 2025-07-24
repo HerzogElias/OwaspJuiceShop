@@ -64,8 +64,35 @@ https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
 
 
 ### Admin Login with SQL Injection 
+You can find a Video Descrition on this following Link:
+```bash
+
+```
+
+1. Navigate to login: 
+```
+Account-Login
+```
+<img src="Navigate_login.png">
+
+2. Login 
+
+For email use the following Command: 
+```bash
+'OR 1=1--
+```
+Type in any password — it can be anything, just make sure the field isn't empty.
+
+<img src="Login_SQLAdmin.png">
+
+Gratulate! You are logged in as a Admin on the OWASP Juice Shop. 
+
 
 ### Find Privacy Policy 
+You can find a Video Descrition on this following Link:
+```bash
+
+```
 1. Create a Acount on your Owasp Juice Shop. 
 Navigate: 
 ```
@@ -75,7 +102,8 @@ Account-Login-"Not jet a Customer"
 
 2. Fill in your own Email Adress and Password 
 
-3. Login with your created Account. 
+
+3. Login with your created Account. Alternative you can use the Admin Account from your SQL Admin Attack. 
 
 4. Navigate to Acount-Privacy&Security -Privacy Policy 
 <img src="navigation_privacy.png>
