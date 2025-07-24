@@ -60,10 +60,24 @@ https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/771984076&color=%23ff5500&auto_play=true&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe>
 ```
 
-
 3. Now you can see a Box where you can play and stop the loaded Music. 
 
 
-
 ### Admin Login with SQL Injection 
-### Every else No Safty example
+
+### Find Privacy Policy 
+1. Create a Acount on your Owasp Juice Shop. 
+Navigate: 
+```
+Account-Login-"Not jet a Customer" 
+```
+<img src="Navigate_login.png">
+
+2. Fill in your own Email Adress and Password 
+
+3. Login with your created Account. 
+
+4. Navigate to Acount-Privacy&Security -Privacy Policy 
+<img src="navigation_privacy.png>
+
+You got it ! 
