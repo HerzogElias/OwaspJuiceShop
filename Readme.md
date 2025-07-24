@@ -22,8 +22,7 @@ You can also Start your own Owasp Juice Shop Instance on your Compouter.
 
 1. Install Perequireties 
 ``` bash
-sudo apt install nodejs
-sudo apt install npm
+sudo apt install nodejs npm
 ```
 
 1. Clone the following Repository 
