@@ -1,10 +1,10 @@
 Readme 
-
 # Table of Contents 
 1. [Prerequisites](#Prerequisites)  
 2. [Quickstart](#Quickstart)  
 3. [Usage](#Usage)  
 4. [Challanges](#Challanges)
+5. [Disclaimer](#Disclaimer)
 
 ## Perrquites 
 Internet Browser 
@@ -49,9 +49,12 @@ npm start
 ```
 
 ## Challanges
-- <a href ="XSS_Song/Readme.md"> 
-XSS Song 
-</a>
+- [XSS Attack](/Chalanges/XSS_Song/Readme.md)
+- [Adminlogin](/Chalanges/Admin_Login/Readme.md)
+- [Privacychalange](/Chalanges/Privacy_Policy/Readme.md)
+
+## Disclaimer
+The vulnerabilities and exploits shown in this repository are provided strictly for educational purposes. Do not attempt to use these techniques on systems without clear and explicit authorization.
 
 
 
