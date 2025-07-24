@@ -1,17 +1,28 @@
 Readme 
 
 # Table of Contents 
-
+1. [🛠 Prerequisites](#Prerequisites)  
+2. [⚡ Quickstart](#Quickstart)  
+3. [💻 Usage](#Usage)  
+4. [🛡️ Possible Attacks](#Possible Attacks)  
+    - [🎵 XSS Song](#Xss Song)  
+    - [🔐 Admin Login with SQL Injection](#Admin Login with SQL Injection )  
+    - [📄 Find Privacy Policy](#Find Privacy Policy )
 
 ## Perrquites 
+Internet Browser 
+
 
 ## Quickstart 
+1. Open the Following Link on your Browser: 
+```bash
+https://juice-shop.herokuapp.com/#/
+```
 
 
 
 ## Usage 
 You can also Start your own Owasp Juice Shop Instance on your Compouter. 
-
 
 1. Install Perequireties 
 ``` bash
@@ -45,7 +56,6 @@ npm start
 
 ## Possible Attacs 
 ### XSS Song 
-
 You can find a Video Descrition on this following Link:
 ```bash
 https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
@@ -53,7 +63,7 @@ https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
 
 
 1. Navigate to Serchnavigation: 
-<img src="/XSS_Suchleiste.png">
+<img src="img/XSS_Suchleiste.png">
 
 2. Put this following Iframe on the Search Field: 
 ```bash
@@ -73,7 +83,7 @@ https://www.loom.com/share/bf3255d1e2d344f9b22b60c12c3f3687
 ```
 Account-Login
 ```
-<img src="Navigate_login.png">
+<img src="img/Navigate_login.png">
 
 2. Login 
 
@@ -83,7 +93,7 @@ For email use the following Command:
 ```
 Type in any password — it can be anything, just make sure the field isn't empty.
 
-<img src="Login_SQLAdmin.png">
+<img src="img/Login_SQLAdmin.png">
 
 Gratulate! You are logged in as a Admin on the OWASP Juice Shop. 
 
@@ -98,14 +108,14 @@ Navigate:
 ```
 Account-Login-"Not jet a Customer" 
 ```
-<img src="Navigate_login.png">
+<img src="img/Navigate_login.png">
 
 2. Fill in your own Email Adress and Password 
-<img src="Registration.png">
+<img src="img/Registration.png">
 
 3. Login with your created Account. Alternative you can use the Admin Account from your SQL Admin Attack. 
 
 4. Navigate to Acount-Privacy&Security -Privacy Policy 
-<img src="navigation_privacy.png>
+<img src="img/navigation_privacy.png>
 
 You got it ! 
