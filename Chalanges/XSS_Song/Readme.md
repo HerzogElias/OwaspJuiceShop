@@ -7,7 +7,7 @@ https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
 
 
 1. Navigate to Serchnavigation: 
-<img src="img/XSS_Suchleiste.png">
+<img src="/img/XSS_Suchleiste.png">
 
 2. Put this following Iframe on the Search Field: 
 ```bash
