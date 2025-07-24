@@ -1,0 +1,23 @@
+# Admin Login with SQL Injection 
+You can find a Video Descrition on this following Link:
+```bash
+https://www.loom.com/share/bf3255d1e2d344f9b22b60c12c3f3687
+```
+
+1. Navigate to login: 
+```
+Account-Login
+```
+<img src="img/Navigate_login.png">
+
+2. Login 
+
+For email use the following Command: 
+```bash
+'OR 1=1--
+```
+Type in any password — it can be anything, just make sure the field isn't empty.
+
+<img src="img/Login_SQLAdmin.png">
+
+Gratulate! You are logged in as a Admin on the OWASP Juice Shop. 
