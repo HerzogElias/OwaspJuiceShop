@@ -66,7 +66,7 @@ https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
 ### Admin Login with SQL Injection 
 You can find a Video Descrition on this following Link:
 ```bash
-
+https://www.loom.com/share/bf3255d1e2d344f9b22b60c12c3f3687
 ```
 
 1. Navigate to login: 
@@ -91,7 +91,7 @@ Gratulate! You are logged in as a Admin on the OWASP Juice Shop.
 ### Find Privacy Policy 
 You can find a Video Descrition on this following Link:
 ```bash
-
+https://www.loom.com/share/6d6850f2073c45e2a9db9226cea5b075
 ```
 1. Create a Acount on your Owasp Juice Shop. 
 Navigate: 
