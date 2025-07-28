@@ -10,6 +10,13 @@ https://www.loom.com/share/6a78aeb3b1a2442eb0752b79d08bbf71
 ## Goal of this Chalange: 
 Goal of this Chalange is to find the Owasp XSS Song. 
 
+## Type of Cyberattack
+This is a Cross-Side Scripting Security Vulnerability 
+
+## Consequents of this Vulnerability
+As a result of this XSS vulnerability, arbitrary JavaScript code can be executed through the search bar.
+This XSS vulnerability allows attackers to inject arbitrary JavaScript code via the search bar.
+
 
 ## Descrition of Solution: 
 1. Navigate to Serchnavigation: 

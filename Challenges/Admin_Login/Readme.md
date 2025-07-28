@@ -8,6 +8,12 @@ https://www.loom.com/share/bf3255d1e2d344f9b22b60c12c3f3687
 ## Goal oo this Chalange: 
 Goal of this Chalange is to login on the OWASP Juice Shop with the Administrator Account. 
 
+## Type of Cyberattack
+This is a SQL Injectable ecurity Vulnerability 
+
+## Consequents of this Vulnerability
+Exploiting this vulnerability allows an attacker to log in as the administrator and obtain full privileges within the OWASP Juice Shop application.
+
 
 ## Descrition of Solution: 
 1. Navigate to login: 

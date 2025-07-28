@@ -8,6 +8,11 @@ https://www.loom.com/share/6d6850f2073c45e2a9db9226cea5b075
 ## Goal of this Chalange: 
 Goal of this Chalange describes to navigate to the Privacy Policy Site of the Owasp Juice Shop. 
 
+## Type of Cyberattack
+This is a Miscellaneous Security Vulnerability 
+
+## Consequents of this Vulnerability
+If a sensitive file such as the privacy policy is accessible in an unexpected location, an attacker may assume that additional security weaknesses exist and continue probing the application for further vulnerabilities.
 
 ## Descrition of Solution: 
 1. Create a Acount on your Owasp Juice Shop. 
