@@ -17,6 +17,8 @@ This is a Cross-Side Scripting Security Vulnerability
 As a result of this XSS vulnerability, arbitrary JavaScript code can be executed through the search bar.
 This XSS vulnerability allows attackers to inject arbitrary JavaScript code via the search bar.
 
+## Disclaimer
+The vulnerabilities and exploits shown in this repository are provided strictly for educational purposes. Do not attempt to use these techniques on systems without clear and explicit authorization.
 
 ## Descrition of Solution: 
 1. Navigate to Serchnavigation: 

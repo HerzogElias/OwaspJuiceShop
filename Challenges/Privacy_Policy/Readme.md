@@ -14,6 +14,10 @@ This is a Miscellaneous Security Vulnerability
 ## Consequents of this Vulnerability
 If a sensitive file such as the privacy policy is accessible in an unexpected location, an attacker may assume that additional security weaknesses exist and continue probing the application for further vulnerabilities.
 
+## Disclaimer
+The vulnerabilities and exploits shown in this repository are provided strictly for educational purposes. Do not attempt to use these techniques on systems without clear and explicit authorization.
+
+
 ## Descrition of Solution: 
 1. Create a Acount on your Owasp Juice Shop. 
 Navigate: 
